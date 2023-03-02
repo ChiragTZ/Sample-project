@@ -1,5 +1,0 @@
-enum Status { INITIAL, LOADING, SUCCESS, ERROR }
-
-enum PrefEnum { STRING, INT, DOUBLE, BOOL, LIST, MODEL }
-
-enum StatusEnum { SUCCESS, ERROR, WARNING, INFO }
